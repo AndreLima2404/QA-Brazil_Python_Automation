@@ -44,15 +44,15 @@ class TestUrbanRoutes:
         print("Função criada para solicitar 2 sorvetes")
         pass
 
-    def test_car_search_model_appears(self):
-        # Adicionar em S8
-        print("Função criada para verificar se o modelo de carro aparece")
-        pass
-
     def test_order_2_ice_creams(self):
         # Adicionar em S8
         number_of_ice_creams = 2
         for count in range(number_of_ice_creams):
             print("função criada para definir o pedido do sorvete")
+            pass
+
+    def test_car_search_model_appears(self):
+            # Adicionar em S8
+            print("Função criada para verificar se o modelo de carro aparece")
             pass
 
