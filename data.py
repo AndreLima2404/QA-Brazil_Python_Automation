@@ -1,5 +1,5 @@
 # URL do botão de iniciar o servidor
-URBAN_ROUTES_URL = 'https://cnt-49b0d450-b815-48a1-997e-c2b1155d2345.containerhub.tripleten-services.com?lng=pt'
+URBAN_ROUTES_URL = 'https://cnt-29443531-80d2-4b91-9bf3-db61e043eebb.containerhub.tripleten-services.com?lng=pt'
 
 # Dados de teste
 ADDRESS_FROM = 'East 2nd Street, 601'

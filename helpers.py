@@ -49,4 +49,7 @@ def is_url_reachable(url):
     except Exception as e:
         print (e)
 
+    def retrieve_phone_code(driver):
+        return "1234"
+
     return False
